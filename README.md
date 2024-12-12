@@ -1,7 +1,5 @@
 Crime Against Women in India 🎨📊👩
 
-"C:\Users\ancha\Downloads\DALL·E 2024-12-12 13.19.01 - A composite image that combines a map of India with heatmap-style overlays showing crime intensity against women, alongside imagery symbolizing women .webp"
-
 Overview
 
 🎯📌✨ This project focuses on analyzing crimes against women in India using data visualization and analytical techniques. The goal is to identify patterns, trends, and insights that can help policymakers and stakeholders make informed decisions to improve women's safety. 📈🛡️👩
