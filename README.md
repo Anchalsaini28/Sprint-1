@@ -1,6 +1,6 @@
 Crime Against Women in India 🎨📊👩
 
-file:///C:/Users/ancha/Downloads/DALL%C2%B7E%202024-12-12%2013.19.01%20-%20A%20composite%20image%20that%20combines%20a%20map%20of%20India%20with%20heatmap-style%20overlays%20showing%20crime%20intensity%20against%20women,%20alongside%20imagery%20symbolizing%20women%20.webp
+"C:\Users\ancha\Downloads\DALL·E 2024-12-12 13.19.01 - A composite image that combines a map of India with heatmap-style overlays showing crime intensity against women, alongside imagery symbolizing women .webp"
 
 Overview
 
